@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aurora.Tests", "Aurora.Tests\Aurora.Tests.csproj", "{45CEC4E2-2ACB-4916-899E-1772E078841B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aurora.Tests.Generators", "Aurora.Tests.Generators\Aurora.Tests.Generators.csproj", "{6E454A4A-0238-4AEE-A218-8C5598D0D523}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{45CEC4E2-2ACB-4916-899E-1772E078841B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{45CEC4E2-2ACB-4916-899E-1772E078841B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{45CEC4E2-2ACB-4916-899E-1772E078841B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{45CEC4E2-2ACB-4916-899E-1772E078841B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6E454A4A-0238-4AEE-A218-8C5598D0D523}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6E454A4A-0238-4AEE-A218-8C5598D0D523}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6E454A4A-0238-4AEE-A218-8C5598D0D523}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6E454A4A-0238-4AEE-A218-8C5598D0D523}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

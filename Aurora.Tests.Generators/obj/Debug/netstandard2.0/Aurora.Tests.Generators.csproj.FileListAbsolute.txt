@@ -1,0 +1,10 @@
+C:\Users\joaov\Documents\Projects\Aurora.Tests\Aurora.Tests.Generators\bin\Debug\netstandard2.0\Aurora.Tests.Generators.deps.json
+C:\Users\joaov\Documents\Projects\Aurora.Tests\Aurora.Tests.Generators\bin\Debug\netstandard2.0\Aurora.Tests.Generators.dll
+C:\Users\joaov\Documents\Projects\Aurora.Tests\Aurora.Tests.Generators\bin\Debug\netstandard2.0\Aurora.Tests.Generators.pdb
+C:\Users\joaov\Documents\Projects\Aurora.Tests\Aurora.Tests.Generators\obj\Debug\netstandard2.0\Aurora.Tests.Generators.csproj.AssemblyReference.cache
+C:\Users\joaov\Documents\Projects\Aurora.Tests\Aurora.Tests.Generators\obj\Debug\netstandard2.0\Aurora.Tests.Generators.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joaov\Documents\Projects\Aurora.Tests\Aurora.Tests.Generators\obj\Debug\netstandard2.0\Aurora.Tests.Generators.AssemblyInfoInputs.cache
+C:\Users\joaov\Documents\Projects\Aurora.Tests\Aurora.Tests.Generators\obj\Debug\netstandard2.0\Aurora.Tests.Generators.AssemblyInfo.cs
+C:\Users\joaov\Documents\Projects\Aurora.Tests\Aurora.Tests.Generators\obj\Debug\netstandard2.0\Aurora.Tests.Generators.csproj.CoreCompileInputs.cache
+C:\Users\joaov\Documents\Projects\Aurora.Tests\Aurora.Tests.Generators\obj\Debug\netstandard2.0\Aurora.Tests.Generators.dll
+C:\Users\joaov\Documents\Projects\Aurora.Tests\Aurora.Tests.Generators\obj\Debug\netstandard2.0\Aurora.Tests.Generators.pdb
